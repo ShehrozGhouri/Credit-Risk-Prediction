@@ -20,6 +20,12 @@ Welcome to my internship project repository! This repository contains my work as
 * **Key Skills:** Categorical encoding, Feature Importance analysis.
 * **Deliverables:** Trained `.pkl` model and evaluation notebook.
 
+  ### Task 4: Medical Insurance Claim Prediction
+* **Objective:** Estimate medical insurance claim amounts based on personal data.
+* **Algorithm:** Linear Regression.
+* **Key Skills:** Regression modeling, Feature correlation, and Error evaluation (MAE/RMSE).
+* **Deliverables:** Trained .pkl model and visualization notebook.
+
 ---
 **Author:** Shehroz Ghouri  
 **Tools:** Python, Jupyter Notebook, Scikit-Learn  

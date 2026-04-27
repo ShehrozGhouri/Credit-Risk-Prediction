@@ -26,6 +26,12 @@ Welcome to my internship project repository! This repository contains my work as
 * **Key Skills:** Regression modeling, Feature correlation, and Error evaluation (MAE/RMSE).
 * **Deliverables:** Trained `.pkl` model and visualization notebook.
 
+### Task 5: Personal Loan Acceptance Prediction
+* **Objective:** Predict which customers are likely to accept a personal loan offer.
+* **Algorithm:** Decision Tree Classifier.
+* **Key Skills:** Data exploration, Classification modeling, and Business insight extraction.
+* **Deliverables:** Trained .pkl model and evaluation notebook.
+
 ---
 **Author:** Shehroz Ghouri  
 **Tools:** Python, Jupyter Notebook, Scikit-Learn  

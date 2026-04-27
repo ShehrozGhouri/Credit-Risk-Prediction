@@ -3,12 +3,16 @@ Task 4: Predicting Insurance Claim Amounts
 Estimating medical insurance claim amounts using Machine Learning.
 
 Objective:
-● Cleaned the Medical Cost Personal dataset.
-● Encoded categorical features like Sex, Smoker, and Region.
-● Trained a Linear Regression model to predict charges.
-● Visualized how BMI, age, and smoking status impact insurance charges.
+● Train a Linear Regression model to predict charges.
+● Visualize how BMI, age, and smoking status impact insurance charges.
+● Evaluate model performance using MAE and RMSE.
 
-Model Performance:
+Skills:
+● Regression modeling
+● Feature correlation and visualization
+● Error evaluation using MAE and RMSE
+
+Results:
 ● Accuracy: 78% (R² Score)
 ● Error Metrics: MAE ($4,181) and RMSE ($5,796)
 ● Top Influencers: Smoking Status, Age, and BMI.
